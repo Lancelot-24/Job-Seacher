@@ -1,2 +1,2 @@
-# Job-Seacher
+# JobHunt
 React Native Job Search app
